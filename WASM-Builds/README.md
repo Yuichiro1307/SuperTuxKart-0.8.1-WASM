@@ -1,0 +1,1 @@
+Set up the shell scripts, files, and other components required for development with tools like Emscripten.
